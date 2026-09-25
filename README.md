@@ -16,7 +16,7 @@ It also has a small login flow, a dashboard hub, sound effects, undo/replay, tim
 ![Dashboard](docs/screenshots/04-dashboard.png)
 
 **Level 1 — Ancient Labyrinth**
-| ![Level 1](docs/screenshots/05-level1-gameplay.png)
+![Level 1](docs/screenshots/05-level1-gameplay.png)
 
 **Level 2 — Cyber Future**
 ![Level 2](docs/screenshots/06-level2-gameplay.png)
