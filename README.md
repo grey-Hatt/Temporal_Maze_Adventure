@@ -2,7 +2,7 @@
 
 A six level Java Swing maze game built as a Data Structures & Algorithms course project. Here each level is themed as a jump through time (Ancient Labyrinth → Cyber Future → Random Rift → 2D Temporal Rift → 3D Kingdom → 360° Finale) and each one deliberately puts a different DSA concept to work, from linked list and stack up to Dijkstra, A* and a self balancing AVL tree.
 
-It also has a small login flow, a dashboard hub, sound effects, undo/replay, timers that i built to demonstrate applied DSA.
+It also has a small login flow, a dashboard hub, sound effects, undo or replay, timers that i built to demonstrate applied DSA.
 
 
 
