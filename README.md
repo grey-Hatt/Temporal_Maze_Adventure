@@ -62,7 +62,7 @@ MAZE/
 
 
 
-## ▶️ How to Run
+## How to Run
 
 ### Option A — VS Code (recommended)
 1. Open the `MAZE` folder in VS Code with the Java Extension Pack installed.
@@ -72,7 +72,7 @@ MAZE/
 ---
 
 
-## 📝 Notes
+## Notes
 
 - This is a **Academic project**, built to practice applying DSA concepts to something interactive, it isn't a production application. After passing the course, while leaning cyberSecurity, I test my built projects for vulnerabilities mapping to OWASP Top 10 and SANS Top 25.
 
