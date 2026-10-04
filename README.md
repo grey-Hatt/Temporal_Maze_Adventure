@@ -43,28 +43,9 @@ Every level is a small showcase of a specific structure or algorithm applied to 
 
 
 
-## Project Structure
-
-```
-MAZE/
-├── src/
-│   ├── App.java                  # Entry point
-│   ├── StartGame/                # main menu --> login/register
-│   ├── MainGame/                 # Dashboard
-│   ├── oneLevel/   … sixLevel/   # One package per level
-│   └── ...
-├── bin/                          
-├── lib/                          
-├── docs/screenshots/             # Screenshots of game
-├── users.txt                     # Local file user data store
-└── README.md
-```
-
-
-
 ## How to Run
 
-### Option A — VS Code (recommended)
+### Option A — VS Code
 1. Open the `MAZE` folder in VS Code with the Java Extension Pack installed.
 2. Open `src/App.java`.
 3. Click **Run** above the `main` method (or press `F5`).
