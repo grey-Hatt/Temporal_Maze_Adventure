@@ -58,6 +58,6 @@ Every level is a small showcase of a specific structure or algorithm applied to 
 - This is a **Academic project**, built to practice applying DSA concepts to something interactive, it isn't a production application. After passing the course, while leaning cyberSecurity, I test my built projects for vulnerabilities mapping to OWASP Top 10 and SANS Top 25.
 
 
-## ✅ Conclusion
+## Conclusion
 
 Maze Adventure started as a way to make a Data Structures & Algorithms course practical based, instead of implementing a linked list, a stack, Dijkstra algorithm, or an AVL tree in isolation, each one had to actually solve a real problem inside a working game like remembering a path, undoing a move, finding a shortest route or keeping a leaderboard sorted.
